@@ -14,6 +14,4 @@ Collection of Good Code Reads, PRs very welcome.
 
 
 ## Similar projects in the space:
-* https://github.com/apollographql/GitHunt-API
-* https://github.com/apollographql/GitHunt-React
 * https://github.com/partyparrot/codetours
